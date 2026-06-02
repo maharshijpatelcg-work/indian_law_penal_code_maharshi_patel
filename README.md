@@ -1,5 +1,3 @@
-# indian_law_penal_code_maharshi_patel
-
 # 🏛️ Indian Penal & Legal Framework API
 
 <div align="center">
